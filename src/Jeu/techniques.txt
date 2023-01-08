@@ -1,0 +1,6 @@
+Technique1;2
+Technique2;3
+Technique3;4
+Technique4;5
+Technique5;6
+Technique6;7
